@@ -1,7 +1,7 @@
 ### Hi there 👋! I'm Chandra :smiley:
 Full Stack Software Developer brought up on JavaScript and Ruby on Rails. Background in Food and Wine Industry with strong interpersonal skills and rigorous positivity.
 
-Excellent at analyzing and assesing customer needs and delivering products and services clients love. Passionate problem solver. A big believer of positive company culture, inclusive kindness and innovative thinking.
+Excellent at analyzing and assessing customer needs and delivering products and services clients love. Passionate problem solver. A big believer of positive company culture, inclusive kindness and innovative thinking.
 
 <!--
 **iamme24cl/iamme24cl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
