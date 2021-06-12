@@ -3,6 +3,8 @@ Full Stack Software Developer brought up on JavaScript and Ruby on Rails. Backgr
 
 Excellent at analyzing and assessing customer needs and delivering products and services clients love. Passionate problem solver. A big believer of positive company culture, inclusive kindness and innovative thinking.
 
+I take great pleasure in learning new technologies, debugging errors, exploring new ideas & solutions, and sincerely dedicating myself to bringing the idea to life.
+
 <!--
 **iamme24cl/iamme24cl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
