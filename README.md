@@ -96,7 +96,7 @@
 ## Recipes  
   
 
-<img src="https://lh3.googleusercontent.com/HOE_6JnsE5TIiYImpyWmebFe8TemvgP7NuvJh0mWr26Q-qZaA4BepRll_QakMsbxcGq2NMRqSEVhMMTZRFVyNFs5fMiTErW8KRUczzZihsfyVifs0LH-ixDrqi5SE8aLKmPNSUmf-YJqdY5ABhZkhmNqcF_VtE7aXD1B_jsya2OmBphL4U_DODan5K61peWTNr2wynmkZIGYMb0Y2qYj-kP7bUdBGjN57zl1z0NTHhsjge6GSwCa03Bh_31uTKHhLs0L9SE_hZEwo2WCdcVsU82u8FagF3hzsxxkHvfy2kv2VcfSFjSZ2LeVljFFf6AijOPMLT-UF4FPsyCOBKeYUnzqaewl2Pz6STGcfxJ0eBy6-kmS3Bp8eunOAzP8QGkeTKFZpAkQSEns7UuLhZnoPbydBHCbGvyJeICR_sVRX0xZyK_rxMJnRTUAdtTZHMS63uA-KJS3VUi_Dq4UgKLLdOIdGaTiO0gdAVJWoHq3Lgz03IzkyyvttVtUDAbRoPXn2zPSZrkkgNYsbvE7p8PG4shPsT2CpVF5w41c41cocMyVNRWYTjB7YR5-2mfEiPi9QeLxSQkIr4B6xq5IPFRKp1E88pdfHHQjf3Q5nkWfvrpamokFu5n6I-AYBuexb87Y8CHOmSXVOdxsvSUnq0Bo-QQ187A_pKoLopqBs-sa8_0BqSn7PgTF8OpR9JD4BC0usLPO2hxsP3FSbfswNr3tOUie=w2638-h1648-no?authuser=0" align="left" height="" width="250" />  
+<img src="images/recipes.png" align="left" height="" width="250" />  
   
 
 <div align="center">Recipe manager app with user account functionality that lets you rate and review recipes and filter recipes. A user has many recipes and can create new recipe with ingredients or add an existing recipe, and manage his/her recipes list. API functionality built using Ruby on Rails, and the MVC pattern. Implemented RESTful URL patterns, and standard user authentication using Omniauth.
@@ -107,7 +107,7 @@
 ## MeroWineNotes  
   
 
-<img src="https://lh3.googleusercontent.com/6bp_RllcptGwdyuluH2fm8-BxqNLsxFg48B2wFu1RkgU11dx5vICDESc-rE21v7Voa0DcT6hPKtVEqRpMH7hb2PTUaZQO9om7JC39RFtas4xECB5HjKwND9nNj1ElTky1Nn_clRmmoz5o6OY1pAjmc2KEvDhPHQEFHm_jQGcs44Mbn_Wm_8pYIkGPwLveE2ZCIYyXhQBYTeBOFFhh59bNbaEs6hdPBN1oCiStGPJoP0ws9Sx5D9voEK1_jr1tZPKZrJl9dkNFX3yPmSS9EcuOmdvSoI0LhOGYBmnZPRO4b5Zfa8suvPA-5JwlGnvW7YpVleU-qB8e23-byy7olP3o4DoiWy5v_eA2dfsCgxvj6FyhWw2qd9yUqSJwR71UiBYnmzIYOpnFl3jIhHnNM6p5nkeqlGIXpvMhC6RDae2inyA0SSG1utFhFiQeX9vECgbFyv7y8JRXgPCx5sDHE15xsOscreNQB4dH1M5xzn5mgrkYnbCMhJr-eiHYE_PWF3xfldHUkRyK3_rKy4IbYoJ6yVv3WX2OkbjqK3Wy9KqottPnRKfdM2Gby64Y0KlSYlhbuVXUS-A8XYTuMV4VZ8OPLSrCTfVUQq34vYrRFT0GDgD58L2Oz78bx00LoH98sILc06eRTPx5wUoOz7QJnnel0AB2AtMupbjzmhzFBhzwnoR6DFWGbC02R-YEDUYMa7_6HuK6XcTCYLHBYUEMQawfi1O=w2638-h1648-no?authuser=0" align="left" height="" width="250" />  
+<img src="images/merowinenotes.png" align="left" height="" width="250" />  
   
 
 <div align="center">Small Ruby application built on Sinatra framework. This is a wine journal app that lets you take notes on your favorite wines and save them to your account. You are also able to view other members wines and see what they are drinking and what they think about those wines. Account authentication is implemented using gem 'bcrypt' and active record has_secure_password on the User model.</div>  
