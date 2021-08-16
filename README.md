@@ -74,7 +74,7 @@
 ### Expense Tracker  
   
 
-<img src="https://lh3.googleusercontent.com/paImO1eIiflLYDRcYOI_TcUwV5841fUZuXro3ap6YqAiMQ_K4HL_cNfVT1qJe02IYtwF8bh4HUtfN_jwTxuOO0MtjX8zaMXRLvisTS5zBwLKGrEJvxY-UNGQ6AweAK0QKWc3u6NTJbwobUy1OD_6nY80HYhg782ABbm3oX956xPBkQ1MN4xYGOO9X-OfxDRMh4s5MESWmNC_3A_I-Jgd6PotlRPRF19Imgl_iifVqxDKf4_899c3a5UdWLXJZQfkyInYQOhYZrETmn-SE178mDIW2_mF2t8TAhgTCip53U_mPLeuF601l6u5G3CxMnmN5bESGwW7yQOLO4g6Ew_Nz2iTSXZZFZv_rTxfv61LPhHd__7kulDrVrtu28_eIdfNWoRsXjh-D9KLL_zi5hzNTEXEgk06OzRVDWF0H0_9CNjMoLAx4xY7BX3jVmBsJB8-msKzkyeDCA7MXsdUvL-SE0WIFUei4NgtBjiSdh1KGSZHil3n2Ez8l96JgtknJkARNgzMWr4WIAmGNsqpitn36p-fUtTzZwRZEI5eBbOyPpOd2Un-RbjVFWgkaOSAz6OlUeUNBRvyG6N9YaoYUjgzJ06LgDRDXfghaOB7mdnpvTy4HF0j8sFJnFoagvYvoXkzMdTQCztYmlv5nriOrX64CMNiELvfb7GBK5QtTkjWAKKABKiZOrf0A0GbJzBn8FMh0qHLCnH2WOGaGem2kVsE8BfU=w2638-h1648-no?authuser=0" align="left" height="" width="250" />  
+<img src="images/expense-tracker.png" align="left" height="" width="250" />  
   
 
 - <div align="center">This is an income and expense tracking application. Custom functionality and REST API is modeled with Active Record, Postgres, and Ruby on Rails. I developed a JavaScript front-end with object-oriented patterns to model the data fetched from the backend api, and implemented a responsive UI using CSS flex-box and Bootstrap.
@@ -84,7 +84,7 @@
 ## Invoices  
   
 
-<img src="https://lh3.googleusercontent.com/ulb889hzfgae8sG3tue8mwO4GOCNowc9OV4ngkRdam8mSkllTYrja8qpvAyjPk29uflQG9g9ZyZsOFRqK96_HerKAkRjbYGa8ryr58Z8N5xioGr70fGGMKNz5NMdYIvllbeIx67IYem6c_Y90dPClVft_5uU3kS_k96oUM5S-fbmtTgrMU43zjPbZWf6cxwoCd15crtnJ2e5pFkJdlZP92H--8IBhydu7aqLt-315KpXGmn9_AX9M-jfBEvrM1SZZY1AixnRN2VfhRfH02rZiSef9ZmQj8eRU3XAl3W2xQvOWsjV7QCxU69qEsmR4XaJJSPXv9BbhefziJVbtjyWZB2jDaR-c1dmAcZUny6o_ReWWTrtzQuxZBpPZH9OxcNkGc_Tm7dzgqhjCzQBIQicDn_yVE1m1S53i1TR_dSs-SSlTWsUqEuuMc-sikrxgv0i5XKtcNxfGma8T0NHD6wPINpXxxHEmFmRvs-5Czeyt77NANvJ2L8ooT8brgarzQ__FKstTGy0xYrurQ_XXx10-nQw3pJFDAQYD3QRKb6vjGBI8HShkgaxg6BRurFan2d9RZwHLtTUy44k_vg6BrNcjUtIn5ad6TnUqLoGGfrd86Ni5YhvdTEU8UfTh3E0RuHu8GMCv9cCzYkJ6y3L0SzFyJuNzaqtHUzSxBHIcraxPC6_LG-pxmesspbCSwEsMtcBb9GwIhwdb0_nh52x15rc00gP=w2638-h1648-no?authuser=0" align="left" height="" width="250" />  
+<img src="images/invoices.png" align="left" height="" width="250" />  
   
 
 <div align="center">Single page application with React front end that creates and manages Invoices for an Account. I integrated Redux to maintain and update global state in store, made use of async actions and redux-thunk middleware to send data to and receive from a server, integrated React-Router and RESTful routing. Back End server built with Ruby on Rails and PostgresSQL
