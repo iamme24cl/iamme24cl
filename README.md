@@ -77,10 +77,11 @@
 <img src="images/expense-tracker.png" align="left" height="" width="250" />  
   
 
-- <div align="center">This is an income and expense tracking application. Custom functionality and REST API is modeled with Active Record, Postgres, and Ruby on Rails. I developed a JavaScript front-end with object-oriented patterns to model the data fetched from the backend api, and implemented a responsive UI using CSS flex-box and Bootstrap.
-</div>  
+<div align="center">This is an income and expense tracking application. Custom functionality and REST API is modeled with Active Record, Postgres, and Ruby on Rails. I developed a JavaScript front-end with object-oriented patterns to model the data fetched from the backend api, and implemented a responsive UI using CSS flex-box and Bootstrap.
+</div>
   
-
+<br/> <br/>
+ 
 ## Invoices  
   
 
@@ -90,6 +91,7 @@
 <div align="center">Single page application with React front end that creates and manages Invoices for an Account. I integrated Redux to maintain and update global state in store, made use of async actions and redux-thunk middleware to send data to and receive from a server, integrated React-Router and RESTful routing. Back End server built with Ruby on Rails and PostgresSQL
 </div>  
   
+<br/> <br/>
 
 ## Recipes  
   
@@ -100,6 +102,7 @@
 <div align="center">Recipe manager app with user account functionality that lets you rate and review recipes and filter recipes. A user has many recipes and can create new recipe with ingredients or add an existing recipe, and manage his/her recipes list. API functionality built using Ruby on Rails, and the MVC pattern. Implemented RESTful URL patterns, and standard user authentication using Omniauth.
 </div>  
   
+<br/> 
 
 ## MeroWineNotes  
   
@@ -110,7 +113,7 @@
 <div align="center">Small Ruby application built on Sinatra framework. This is a wine journal app that lets you take notes on your favorite wines and save them to your account. You are also able to view other members wines and see what they are drinking and what they think about those wines. Account authentication is implemented using gem 'bcrypt' and active record has_secure_password on the User model.</div>  
   
 
-<br/>   
+<br/> <br/>   
 
 
 ## Connect with me  
