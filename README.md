@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I am Chandra 😀 🌙. I am a full-stack developer 🖥️ ⌨️</div>  
+## <div align="left">I am Chandra 😀 🌙 I am a full-stack developer 🖥️ ⌨️</div>  
   
 
 - 🏗️ I’m currently working on my  [Invoices](http://example/com) app and adding more features to it!  
