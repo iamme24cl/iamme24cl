@@ -14,10 +14,10 @@ I take great pleasure in learning new technologies, debugging errors, exploring 
 - 🏗️ I’m currently working on my  [Invoices](http://example/com) app and adding more features to it!  
   
 
-- 📚 I’m currently learning Node.js and GraphQL    
+- 📚 I’m currently learning and working on building a backend server with Node.js and Express.js framework.
   
 
-- 😄 Fun facts: I love playing the guitar and tasting all the good wines I can find!   
+- 😄 Fun facts: I love playing the guitar, singing and tasting all the good wines that I can find!   
   
 
 <br/>  
