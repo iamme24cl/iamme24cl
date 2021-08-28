@@ -3,18 +3,18 @@
 </div>  
   
 
-## <div align="left">I am Chandra 😀 🌙 I am a full-stack developer 🖥️ ⌨️</div>
+## <div align="left">I am Chandra 🌙. I am a full-stack developer ⌨️ 🖥️. </div>
 Full Stack Software Developer brought up on JavaScript and Ruby on Rails. Background in the food and wine Industry with strong interpersonal skills and rigorous positivity.
 
 Excellent at analyzing and assessing customer needs and delivering products and services clients love. Passionate problem solver. A big believer of positive company culture, inclusive kindness, and innovative thinking.
 
-I take great pleasure in learning new technologies, debugging errors, exploring new ideas & solutions, and sincerely dedicating myself to bringing the idea to life.
+I take great pleasure in learning new technologies, debugging errors, exploring new ideas & solutions, and sincerely dedicating myself to bringing the idea to life. 😀 
   
 
-- 🏗️ I’m currently working on my  [Invoices](http://example/com) app and adding more features to it!  
+- 🏗️ I’m currently working on my [Invoices](http://example/com) app and adding more features to it!  
   
 
-- 📚 I’m currently learning and working on building a backend server with Node.js and Express.js framework.
+- 📚 I’m currently learning and working on building a backend server with Node.js using Express.js framework and Node-SQLITE3.
   
 
 - 😄 Fun facts: I love playing the guitar, singing and tasting all the good wines that I can find!   
