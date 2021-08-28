@@ -74,50 +74,48 @@ I take great pleasure in learning new technologies, debugging errors, exploring 
 <br/>  
 
 ## A few things I built.  
+<table><tr><td valign="top" width="50%"> 
   
-
-### Expense Tracker [Code](https://github.com/iamme24cl/expense-tracker-frontend) | [Deployed Site](https://iamme24cl.github.io/expense-tracker-frontend/)
-  
-
+### <div align="center">Expense Tracker <a href="https://github.com/iamme24cl/expense-tracker-frontend">Code</a> | <a href="https://iamme24cl.github.io/expense-tracker-frontend">Deployed Site</a></div>
+<div align="center">
 <img src="images/expense-tracker.png" height="" width="350" />  
-  
-
-<div align="left">This is an income and expense tracking application. Custom functionality and REST API is modeled with Active Record, Postgres, and Ruby on Rails. I developed a JavaScript front-end with object-oriented patterns to model the data fetched from the backend api, and implemented a responsive UI using CSS flex-box and Bootstrap.
+<div>This is an income and expense tracking application. Custom functionality and REST API is modeled with Active Record, Postgres, and Ruby on Rails. I developed a JavaScript front-end with object-oriented patterns to model the data fetched from the backend api, and implemented a responsive UI using CSS flex-box and Bootstrap.</div>
 </div>
   
-<br/> <br/>
+</td><td valign="top" width="50%">
  
-### Invoices  [Code](https://github.com/iamme24cl/invoices-frontend) | [Deployed Site](https://my-invoices.netlify.app/)
+### <div align="center">Invoices <a href="https://github.com/iamme24cl/invoices-frontend">Code</a> | <a href="https://my-invoices.netlify.app">Deployed Site</a>
+<div align="center">
+<img src="images/invoices.png" height="" width="350" /> 
   
-
-<img src="images/invoices.png" height="" width="350" />  
+<div>Single page application with React front end that creates and manages Invoices for an Account. I integrated Redux to maintain and update global state in store, made use of async actions and redux-thunk middleware to send data to and receive from a server, integrated React-Router and RESTful routing. Back End server built with Ruby on Rails and PostgresSQL
+</div> 
+</div>
   
+</td><td valign="top" width="50%">
+</td></tr></table>
 
-<div align="left">Single page application with React front end that creates and manages Invoices for an Account. I integrated Redux to maintain and update global state in store, made use of async actions and redux-thunk middleware to send data to and receive from a server, integrated React-Router and RESTful routing. Back End server built with Ruby on Rails and PostgresSQL
-</div>  
-  
-<br/> <br/>
+<table><tr><td valign="top" width="50%">
 
-### Recipes [Code](https://github.com/iamme24cl/Recipes) | [Demo Video](https://www.youtube.com/watch?v=i3Q8Ns4z11o) 
-  
-
+### <div align="center">Recipes <a href="https://github.com/iamme24cl/Recipes">Code</a> | <a href="https://www.youtube.com/watch?v=i3Q8Ns4z11o">Demo Video</a>
+<div align="center">
 <img src="images/recipes.png" height="" width="350" />  
   
-
-<div align="left">Recipe manager app with user account functionality that lets you rate and review recipes and filter recipes. A user has many recipes and can create new recipe with ingredients or add an existing recipe, and manage his/her recipes list. API functionality built using Ruby on Rails, and the MVC pattern. Implemented RESTful URL patterns, and standard user authentication using Omniauth.
-</div>  
+<div>Recipe manager app with user account functionality that lets you rate and review recipes and filter recipes. A user has many recipes and can create new recipe with ingredients or add an existing recipe, and manage his/her recipes list. API functionality built using Ruby on Rails, and the MVC pattern. Implemented RESTful URL patterns, and standard user authentication using Omniauth.
+</div>
+</div>
   
-<br/> 
+</td><td valign="top" width="50%"> 
 
-### MeroWineNotes [Code](https://github.com/iamme24cl/mero-winenotes) | [Demo Video](https://www.youtube.com/watch?v=0dTVA8qC5XM) 
-  
-
+### <div align="center">MeroWineNotes <a href="https://github.com/iamme24cl/mero-winenotes"></a> | <a href="https://www.youtube.com/watch?v=0dTVA8qC5XM">Demo Video</a>
+<div align="center">
 <img src="images/merowinenotes.png" height="" width="350" />  
-  
 
-<div align="left">Small Ruby application built on Sinatra framework. This is a wine journal app that lets you take notes on your favorite wines and save them to your account. You are also able to view other members wines and see what they are drinking and what they think about those wines. Account authentication is implemented using gem 'bcrypt' and active record has_secure_password on the User model.</div>  
-  
+<div>Small Ruby application built on Sinatra framework. This is a wine journal app that lets you take notes on your favorite wines and save them to your account. You are also able to view other members wines and see what they are drinking and what they think about those wines. Account authentication is implemented using gem 'bcrypt' and active record has_secure_password on the User model.</div>
+</div>
 
+</td><td valign="top" width="50%">
+</td></tr></table> 
 <br/> <br/>   
 
 
