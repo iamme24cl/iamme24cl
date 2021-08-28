@@ -3,7 +3,12 @@
 </div>  
   
 
-## <div align="left">I am Chandra 😀 🌙 I am a full-stack developer 🖥️ ⌨️</div>  
+## <div align="left">I am Chandra 😀 🌙 I am a full-stack developer 🖥️ ⌨️</div>
+Full Stack Software Developer brought up on JavaScript and Ruby on Rails. Background in the food and wine Industry with strong interpersonal skills and rigorous positivity.
+
+Excellent at analyzing and assessing customer needs and delivering products and services clients love. Passionate problem solver. A big believer of positive company culture, inclusive kindness, and innovative thinking.
+
+I take great pleasure in learning new technologies, debugging errors, exploring new ideas & solutions, and sincerely dedicating myself to bringing the idea to life.
   
 
 - 🏗️ I’m currently working on my  [Invoices](http://example/com) app and adding more features to it!  
