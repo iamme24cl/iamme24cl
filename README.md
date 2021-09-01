@@ -13,11 +13,14 @@ I take great pleasure in learning new technologies, debugging errors, exploring 
 
 - 🏗️ I’m currently working on my [Invoices](http://example/com) app and adding more features to it!  
   
-
-- 📚 I’m currently learning and working on building a backend server with Node.js using Express.js framework and Node-SQLITE3.
   
+- 📚 I'm currenlty practicing algorithms, solving problems on leetcode, and working through the algoexpert.io curriculum.
 
-- 😄 Fun facts: I love playing the guitar, singing and tasting all the good wines that I can find!   
+
+- 📚 I’m currently learning and working on building a backend server with Node.js, using Express.js framework, and Node-SQLITE3.
+
+
+- 😄 Fun facts: I love playing the guitar, singing, and tasting all the good wines that I can find!   
   
 
 <br/>  
