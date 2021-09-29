@@ -102,7 +102,7 @@ I take great pleasure in learning new technologies, debugging errors, exploring 
 
 ### <div align="center">Recipes <a href="https://github.com/iamme24cl/Recipes">Code</a> 
 <div align="center">
-<img src="images/recipes.png" height="" width="350" />  
+<img src="images/recipes.jpg" height="" width="350" />  
   
 <div>Recipe manager app with user account functionality that lets you rate and review recipes and filter recipes. A user has many recipes and can create new recipe with ingredients or add an existing recipe, and manage his/her recipes list. API functionality built using Ruby on Rails, and the MVC pattern. Implemented RESTful URL patterns, and standard user authentication using Omniauth.
 </div>
