@@ -11,13 +11,13 @@ Excellent at analyzing and assessing customer needs and delivering products and 
 I take great pleasure in learning new technologies, debugging errors, exploring new ideas & solutions, and sincerely dedicating myself to bringing the idea to life. 😀 
   
 
-- 🏗️ I’m currently working on my [Invoices](http://example/com) app and adding more features to it!  
+- 🏗️ I’m currently building a project using React and Material UI. 
   
   
-- 📚 I'm currenlty practicing algorithms, solving problems on leetcode, and working through the algoexpert.io curriculum.
+- 📚 I'm currenlty practicing algorithms everyday.
 
 
-- 📚 I’m currently learning and working on building a backend server with Node.js, using Express.js framework, and Node-SQLITE3.
+- 📚 I’m currently learning and working on building a backend server with Node.js, using Express.js framework.
 
 
 - 😄 Fun facts: I love playing the guitar, singing, and tasting all the good wines that I can find!   
@@ -100,7 +100,7 @@ I take great pleasure in learning new technologies, debugging errors, exploring 
 
 <table><tr><td valign="top" width="50%">
 
-### <div align="center">Recipes <a href="https://github.com/iamme24cl/Recipes">Code</a> | <a href="https://www.youtube.com/watch?v=i3Q8Ns4z11o">Demo Video</a>
+### <div align="center">Recipes <a href="https://github.com/iamme24cl/Recipes">Code</a> 
 <div align="center">
 <img src="images/recipes.png" height="" width="350" />  
   
@@ -110,7 +110,7 @@ I take great pleasure in learning new technologies, debugging errors, exploring 
   
 </td><td valign="top" width="50%"> 
 
-### <div align="center">MeroWineNotes <a href="https://github.com/iamme24cl/mero-winenotes"></a> | <a href="https://www.youtube.com/watch?v=0dTVA8qC5XM">Demo Video</a>
+### <div align="center">MeroWineNotes <a href="https://github.com/iamme24cl/mero-winenotes">Code</a> 
 <div align="center">
 <img src="images/mero-winenotes.gif" height="" width="350" />  
 
