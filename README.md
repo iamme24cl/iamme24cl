@@ -81,7 +81,7 @@ I take great pleasure in learning new technologies, debugging errors, exploring 
   
 ### <div align="center">Expense Tracker <a href="https://github.com/iamme24cl/expense-tracker-frontend">Code</a> | <a href="https://iamme24cl.github.io/expense-tracker-frontend">Deployed Site</a></div>
 <div align="center">
-<img src="images/expense-tracker.png" height="" width="350" />  
+<img src="images/expense-tracker.gif" height="" width="350" />  
 <div>This is an income and expense tracking application. Custom functionality and REST API is modeled with Active Record, Postgres, and Ruby on Rails. I developed a JavaScript front-end with object-oriented patterns to model the data fetched from the backend api, and implemented a responsive UI using CSS flex-box and Bootstrap.</div>
 </div>
   
@@ -89,7 +89,7 @@ I take great pleasure in learning new technologies, debugging errors, exploring 
  
 ### <div align="center">Invoices <a href="https://github.com/iamme24cl/invoices-frontend">Code</a> | <a href="https://my-invoices.netlify.app">Deployed Site</a>
 <div align="center">
-<img src="images/invoices.png" height="" width="350" /> 
+<img src="images/invoices.gif" height="" width="350" /> 
   
 <div>Single page application with React front end that creates and manages Invoices for an Account. I integrated Redux to maintain and update global state in store, made use of async actions and redux-thunk middleware to send data to and receive from a server, integrated React-Router and RESTful routing. Back End server built with Ruby on Rails and PostgresSQL
 </div> 
@@ -112,7 +112,7 @@ I take great pleasure in learning new technologies, debugging errors, exploring 
 
 ### <div align="center">MeroWineNotes <a href="https://github.com/iamme24cl/mero-winenotes"></a> | <a href="https://www.youtube.com/watch?v=0dTVA8qC5XM">Demo Video</a>
 <div align="center">
-<img src="images/merowinenotes.png" height="" width="350" />  
+<img src="images/mero-winenotes.gif" height="" width="350" />  
 
 <div>Small Ruby application built on Sinatra framework. This is a wine journal app that lets you take notes on your favorite wines and save them to your account. You are also able to view other members wines and see what they are drinking and what they think about those wines. Account authentication is implemented using gem 'bcrypt' and active record has_secure_password on the User model.</div>
 </div>
