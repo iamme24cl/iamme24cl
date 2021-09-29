@@ -78,21 +78,24 @@ I take great pleasure in learning new technologies, debugging errors, exploring 
 
 ## A few things I built.  
 <table><tr><td valign="top" width="50%"> 
-  
-### <div align="center">Expense Tracker <a href="https://github.com/iamme24cl/expense-tracker-frontend">Code</a> | <a href="https://iamme24cl.github.io/expense-tracker-frontend">Deployed Site</a></div>
-<div align="center">
-<img src="images/expense-tracker.gif" height="" width="350" />  
-<div>This is an income and expense tracking application. Custom functionality and REST API is modeled with Active Record, Postgres, and Ruby on Rails. I developed a JavaScript front-end with object-oriented patterns to model the data fetched from the backend api, and implemented a responsive UI using CSS flex-box and Bootstrap.</div>
-</div>
-  
-</td><td valign="top" width="50%">
  
 ### <div align="center">Invoices <a href="https://github.com/iamme24cl/invoices-frontend">Code</a> | <a href="https://my-invoices.netlify.app">Deployed Site</a>
 <div align="center">
 <img src="images/invoices.gif" height="" width="350" /> 
   
-<div>Single page application with React front end that creates and manages Invoices for an Account. I integrated Redux to maintain and update global state in store, made use of async actions and redux-thunk middleware to send data to and receive from a server, integrated React-Router and RESTful routing. Back End server built with Ruby on Rails and PostgresSQL
+<div>Full stack Invoice Managing application that lets you create your invoices and bill clients.
+Modeled API functionality following RESTful patterns and created a custom Api-key Class and
+controller module to handle authenticating users.
 </div> 
+</div>
+  
+</td><td valign="top" width="50%">
+
+### <div align="center">Expense Tracker <a href="https://github.com/iamme24cl/expense-tracker-frontend">Code</a> | <a href="https://iamme24cl.github.io/expense-tracker-frontend">Deployed Site</a></div>
+<div align="center">
+<img src="images/expense-tracker.gif" height="" width="350" />  
+<div>Full stack Expense tracking application with a Ruby on Rails backend.
+Developed a JavaScript front-end and implemented a responsive UI</div>
 </div>
   
 </td><td valign="top" width="50%">
@@ -104,7 +107,9 @@ I take great pleasure in learning new technologies, debugging errors, exploring 
 <div align="center">
 <img src="images/recipes.jpg" height="" width="350" />  
   
-<div>Recipe manager app with user account functionality that lets you rate and review recipes and filter recipes. A user has many recipes and can create new recipe with ingredients or add an existing recipe, and manage his/her recipes list. API functionality built using Ruby on Rails, and the MVC pattern. Implemented RESTful URL patterns, and standard user authentication using Omniauth.
+<div>Full stack Ruby on Rails application. This is a Recipe manager. Users are able to do all CRUD
+functionalities. Users can also view and review other user’s recipes.
+Utilized the Omniauth library to implement multi-provider authentication
 </div>
 </div>
   
@@ -114,7 +119,8 @@ I take great pleasure in learning new technologies, debugging errors, exploring 
 <div align="center">
 <img src="images/mero-winenotes.gif" height="" width="350" />  
 
-<div>Small Ruby application built on Sinatra framework. This is a wine journal app that lets you take notes on your favorite wines and save them to your account. You are also able to view other members wines and see what they are drinking and what they think about those wines. Account authentication is implemented using gem 'bcrypt' and active record has_secure_password on the User model.</div>
+<div>Full stack Sinatra application that lets users manage their favorite wines and persist them to their
+account.</div>
 </div>
 
 </td><td valign="top" width="50%">
