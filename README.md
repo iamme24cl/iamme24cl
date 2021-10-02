@@ -103,7 +103,7 @@ Developed a JavaScript front-end and implemented a responsive UI</div>
 
 <table><tr><td valign="top" width="50%">
 
-### <div align="center">Recipes <a href="https://github.com/iamme24cl/Recipes">Code</a> 
+### <div align="center">Recipes <a href="https://github.com/iamme24cl/Recipes">Code</a> | <a href="https://my-recipes-2020.herokuapp.com/">Deployed Site</a></div>
 <div align="center">
 <img src="images/recipes.gif" height="" width="350" />  
   
