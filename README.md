@@ -105,7 +105,7 @@ Developed a JavaScript front-end and implemented a responsive UI</div>
 
 ### <div align="center">Recipes <a href="https://github.com/iamme24cl/Recipes">Code</a> 
 <div align="center">
-<img src="images/recipes.jpg" height="" width="350" />  
+<img src="images/recipes.gif" height="" width="350" />  
   
 <div>Full stack Ruby on Rails application. This is a Recipe manager. Users are able to do all CRUD
 functionalities. Users can also view and review other user’s recipes.
