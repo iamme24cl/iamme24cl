@@ -11,13 +11,10 @@ Excellent at analyzing and assessing customer needs and delivering products and 
 I take great pleasure in learning new technologies, debugging errors, exploring new ideas & solutions, and sincerely dedicating myself to bringing the idea to life. 😀 
   
 
-- 🏗️ I’m currently building a project using React and Material UI. 
+- 🏗️ I’m currently working on sharpening my system design & scalability knowledge 
   
   
 - 📚 I'm currenlty practicing algorithms everyday.
-
-
-- 📚 I’m currently learning and working on building a backend server with Node.js, using Express.js framework.
 
 
 - 😄 Fun facts: I love playing the guitar, singing, and tasting all the good wines that I can find!   
