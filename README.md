@@ -14,7 +14,7 @@ I take great pleasure in learning new technologies, debugging errors, exploring 
 - 🏗️ I’m currently working on sharpening my system design & scalability knowledge 
   
   
-- 📚 I'm currenlty practicing algorithms everyday.
+- 📚 I'm currenlty practicing algorithms everyday and working on projects to hone my developer skills.
 
 
 - 😄 Fun facts: I love playing the guitar, singing, and tasting all the good wines that I can find!   
