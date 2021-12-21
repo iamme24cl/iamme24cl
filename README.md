@@ -62,7 +62,7 @@ I take great pleasure in learning new technologies, debugging errors, exploring 
  
 <div align="center">Invoices <a href="https://github.com/iamme24cl/invoices-frontend">Code</a> | <a href="https://my-invoices.netlify.app">Deployed Site</a>
 <br/><br/>
-  <img src="images/invoices.gif" height="" width="350" /> 
+  <img src="images/invoices.gif" height="" width="500" /> 
   <br/><br/>
   <div>
     Full stack Invoice Managing application that lets you create your invoices and bill clients.
@@ -75,7 +75,7 @@ I take great pleasure in learning new technologies, debugging errors, exploring 
 
 <div align="center">Expense Tracker <a href="https://github.com/iamme24cl/expense-tracker-frontend">Code</a> | <a href="https://iamme24cl.github.io/expense-tracker-frontend">Deployed Site</a>
 <br/><br/>
-  <img src="images/expense-tracker.gif" height="" width="350" /> 
+  <img src="images/expense-tracker.gif" height="" width="500" /> 
   <br/><br/>
   <div>
     Full stack Expense tracking application with a Ruby on Rails backend. Developed a JavaScript 
