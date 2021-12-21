@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/6PpG57NvBHU4311U8X/giphy.gif?cid=790b761102ace7e97b3a13edcd4e8e2e6aa1d3cf24bbf576&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
+  <img src="https://media.giphy.com/media/6PpG57NvBHU4311U8X/giphy.gif?cid=790b761102ace7e97b3a13edcd4e8e2e6aa1d3cf24bbf576&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
 </div>  
   
 
@@ -24,104 +24,88 @@ I take great pleasure in learning new technologies, debugging errors, exploring 
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-</div>
-
-</td></tr></table>  
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <p>Frontend</p>  
+      <div align="center">  
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <p>Backend</p>  
+      <div align="center">  
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="50" />  
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" />  
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
+      </div>
+    </td>
+  </tr></table>  
 
 <br/>  
 
-## A few things I built.  
-<table><tr><td valign="top" width="50%"> 
+## Projects  
  
-### <div align="center">Invoices <a href="https://github.com/iamme24cl/invoices-frontend">Code</a> | <a href="https://my-invoices.netlify.app">Deployed Site</a>
-<div align="center">
-<img src="images/invoices.gif" height="" width="350" /> 
-  
-<div>Full stack Invoice Managing application that lets you create your invoices and bill clients.
-Modeled API functionality following RESTful patterns and created a custom Api-key Class and
-controller module to handle authenticating users.
-</div> 
-</div>
-  
-</td><td valign="top" width="50%">
-
-### <div align="center">Expense Tracker <a href="https://github.com/iamme24cl/expense-tracker-frontend">Code</a> | <a href="https://iamme24cl.github.io/expense-tracker-frontend">Deployed Site</a></div>
-<div align="center">
-<img src="images/expense-tracker.gif" height="" width="350" />  
-<div>Full stack Expense tracking application with a Ruby on Rails backend.
-Developed a JavaScript front-end and implemented a responsive UI</div>
-</div>
-  
-</td><td valign="top" width="50%">
-</td></tr></table>
-
-<table><tr><td valign="top" width="50%">
-
-### <div align="center">Recipes <a href="https://github.com/iamme24cl/Recipes">Code</a> | <a href="https://my-recipes-2020.herokuapp.com/">Deployed Site</a></div>
-<div align="center">
-<img src="images/recipes.gif" height="" width="350" />  
-  
-<div>Full stack Ruby on Rails application. This is a Recipe manager. Users are able to do all CRUD
-functionalities. Users can also view and review other user’s recipes.
-Utilized the Omniauth library to implement multi-provider authentication
-</div>
-</div>
-  
-</td><td valign="top" width="50%"> 
-
-### <div align="center">MeroWineNotes <a href="https://github.com/iamme24cl/mero-winenotes">Code</a> 
-<div align="center">
-<img src="images/mero-winenotes.gif" height="" width="350" />  
-
-<div>Full stack Sinatra application that lets users manage their favorite wines and persist them to their
-account.</div>
+<div align="center">Invoices <a href="https://github.com/iamme24cl/invoices-frontend">Code</a> | <a href="https://my-invoices.netlify.app">Deployed Site</a>
+<br/><br/>
+  <img src="images/invoices.gif" height="" width="350" /> 
+  <br/><br/>
+  <div>
+    Full stack Invoice Managing application that lets you create your invoices and bill clients.
+    Modeled API functionality following RESTful patterns and created a custom Api-key Class
+    and controller module to handle authenticating users.
+  </div> 
 </div>
 
-</td><td valign="top" width="50%">
-</td></tr></table> 
+<br/><br/>
+
+<div align="center">Expense Tracker <a href="https://github.com/iamme24cl/expense-tracker-frontend">Code</a> | <a href="https://iamme24cl.github.io/expense-tracker-frontend">Deployed Site</a>
+<br/><br/>
+  <img src="images/expense-tracker.gif" height="" width="350" /> 
+  <br/><br/>
+  <div>
+    Full stack Expense tracking application with a Ruby on Rails backend. Developed a JavaScript 
+    front-end and implemented a responsive UI.
+  </div>
+</div>
+  
+<br/><br/>
+
+<div align="center">Recipes <a href="https://github.com/iamme24cl/Recipes">Code</a> | <a href="https://my-recipes-2020.herokuapp.com/">Deployed Site</a>
+<br/><br/>
+  <img src="images/recipes.gif" height="" width="500" />  
+  <br/><br/>
+  <div>Full stack Ruby on Rails application. This is a Recipe manager. Users are able to do all CRUD 
+   functionalities. Users can also view and review other user’s recipes. Utilized the Omniauth library 
+   to implement multi-provider authentication
+  </div>
+</div>
+  
+<br/><br/>
+
+<div align="center">MeroWineNotes <a href="https://github.com/iamme24cl/mero-winenotes">Code</a> 
+ <br/><br/>
+  <img src="images/mero-winenotes.gif" height="" width="500" />  
+  <br/><br/>
+  <div>Full stack Sinatra application that lets users manage their favorite wines and persist them to their
+  account.</div>
+</div>
+
+
 <br/> <br/>   
 
 
