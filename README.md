@@ -29,3 +29,8 @@
  <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" data-canonical-src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=Postman&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;&nbsp; 
 </p>
 
+<div align="center" dir="auto">  
+<p dir="auto"><img src="https://github-readme-stats.vercel.app/api?username=iamme24cl&show_icons=true&theme=blue-green" alt="Chandra's github stats"></p>
+</div>
+
+
