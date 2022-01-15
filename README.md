@@ -1,10 +1,5 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/6PpG57NvBHU4311U8X/giphy.gif?cid=790b761102ace7e97b3a13edcd4e8e2e6aa1d3cf24bbf576&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
-</div>  
-  
-
-## <div align="left">I am Chandra 🌙. I am a full-stack developer ⌨️ 🖥️. </div>
-Full Stack Software Developer brought up on JavaScript and Ruby on Rails. Background in the food and wine Industry with strong interpersonal skills and rigorous positivity.
+## <div align="left">HI! I am Chandra 🌙. I am a web developer ⌨️ 🖥️. </div>
+Web Developer brought up on JavaScript and Ruby on Rails. Background in the food and wine Industry with strong interpersonal skills and rigorous positivity.
 
 Excellent at analyzing and assessing customer needs and delivering products and services clients love. Passionate problem solver. A big believer of positive company culture, inclusive kindness, and innovative thinking.
 
