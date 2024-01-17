@@ -19,7 +19,7 @@ Detail-oriented and highly motivated full stack software developer. Proficient i
 - Software Developer at Mulltiply, United States (2022-2022)
 
 ## 📫 How to Reach Me
-- LinkedIn: [chandralama](www.linkedin.com/in/chandralama)
+- LinkedIn: [chandralama](https://linkedin.com/in/chandralama)
 - Email: [iamme24cl@gmail.com](mailto:iamme24cl@gmail.com)
 
 <!-- Optional sections -->
