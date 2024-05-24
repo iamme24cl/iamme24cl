@@ -11,8 +11,15 @@ Detail-oriented and highly motivated full stack software developer. Proficient i
 - Databases: `MySQL`, `PostgreSQL`
 
 ## 🔥 My Projects
-- [Invoices - Backend](https://github.com/iamme24cl/invoices-backend): This server creates and manages invoices for users.
-- [Invoices - Frontend](https://github.com/iamme24cl/invoices-frontend): This app creates and manages invoices for users.
+**Weather App**  
+A weather forecasting application providing real-time weather updates. Built with React and OpenWeatherMap API.  
+- Technologies: React, JavaScript, HTML, CSS  
+- [GitHub Repository](https://github.com/yourusername/weather-app) | [Live Demo](https://yourusername.github.io/weather-app)
+
+**Portfolio Website**  
+Personal portfolio website to showcase my projects and skills. Built with HTML, CSS, and JavaScript.  
+- Technologies: HTML, CSS, JavaScript  
+- [GitHub Repository](https://github.com/yourusername/portfolio) | [Live Demo](https://yourusername.github.io/portfolio)
 
 ## 👨‍💻 Experience
 - Software Developer at ClickIPO Holdings, San Jose, California, United States (2022-Present)
@@ -21,15 +28,8 @@ Detail-oriented and highly motivated full stack software developer. Proficient i
 ## 📫 How to Reach Me
 - LinkedIn: [chandralama](https://linkedin.com/in/chandralama)
 - Email: [iamme24cl@gmail.com](mailto:iamme24cl@gmail.com)
+- Website: [www.chandralama.com](https://www.chandralama.com) --->> Check out some more of my projects here!!
 
-<!-- Optional sections -->
-## 🌱 I’m currently learning ...
-- I’m currently working on sharpening my system design & scalability knowledge
+## ⚡ Fun fact
+- I love playing the guitar, singing, and tasting all the good wines that I can find!
 
-## ⚡ Fun fact: I love playing the guitar, singing, and tasting all the good wines that I can find!
-
-<!-- Visitor count (optional) -->
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/iamme24cl/count.svg" />
-</p>
