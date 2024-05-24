@@ -28,7 +28,7 @@ Personal portfolio website to showcase my projects and skills. Built with HTML, 
 ## 📫 How to Reach Me
 - LinkedIn: [chandralama](https://linkedin.com/in/chandralama)
 - Email: [iamme24cl@gmail.com](mailto:iamme24cl@gmail.com)
-- Website: [www.chandralama.com](https://www.chandralama.com) --->> Check out some more of my projects here!!
+- Website: [www.chandralama.com](https://www.chandralama.com) 
 
 ## ⚡ Fun fact
 - I love playing the guitar, singing, and tasting all the good wines that I can find!
