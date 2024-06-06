@@ -1,4 +1,3 @@
-
 # Hi there, I'm Chandra Lama 👋
 
 ## 🚀 About Me
@@ -11,15 +10,18 @@ Detail-oriented and highly motivated full stack software developer. Proficient i
 - Databases: `MySQL`, `PostgreSQL`
 
 ## 🔥 My Projects
-**Weather App**  
-A weather forecasting application providing real-time weather updates. Built with React and OpenWeatherMap API.  
-- Technologies: React, JavaScript, HTML, CSS  
-- [GitHub Repository](https://github.com/yourusername/weather-app) | [Live Demo](https://yourusername.github.io/weather-app)
 
-**Portfolio Website**  
-Personal portfolio website to showcase my projects and skills. Built with HTML, CSS, and JavaScript.  
-- Technologies: HTML, CSS, JavaScript  
-- [GitHub Repository](https://github.com/yourusername/portfolio) | [Live Demo](https://yourusername.github.io/portfolio)
+### Movie Recommender App
+A movie recommendation application that recommends movies based on user's past movie ratings. Users can browse movies by name or category and rate movies. Built with Python and FastAPI for the backend, utilizing pandas, scipy, implicit for data manipulation and model training. The frontend is developed using React with Material UI.  
+- **Technologies:** Python, FastAPI, pandas, scipy, implicit, React, Material UI  
+- [Backend Repository](https://github.com/iamme24cl/movie_land) | [Frontend Repository](https://github.com/iamme24cl/movie-land-app)
+- [Live Demo](https://movie-land-app.pages.dev)
+
+### Social Media App
+A social media platform enabling users to create profiles, post updates, comment on each other's posts, message other users in real-time and interact with them. Built with Python and Flask for the backend server and React with Material UI for the frontend. Utilized Socket.IO library to enable real-time messaging feature.
+- **Technologies:** Python, Flask, Socket.IO, React, Material UI  
+- [Backend Repository](https://github.com/iamme24cl/smedia-backend) | [Frontend Repository](https://github.com/iamme24cl/sMedia)
+- [Live Demo](https://smedia-74l.pages.dev)
 
 ## 👨‍💻 Experience
 - Software Developer at ClickIPO Holdings, San Jose, California, United States (2022-Present)
@@ -32,4 +34,3 @@ Personal portfolio website to showcase my projects and skills. Built with HTML, 
 
 ## ⚡ Fun fact
 - I love playing the guitar, singing, and tasting all the good wines that I can find!
-
