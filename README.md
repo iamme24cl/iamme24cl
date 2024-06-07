@@ -20,8 +20,7 @@ A movie recommendation application that recommends movies based on user's past m
 ### Social Media App
 A social media platform enabling users to create profiles, post updates, comment on each other's posts, message other users in real-time and interact with them. Built with Python and Flask for the backend server and React with Material UI for the frontend. Utilized Socket.IO library to enable real-time messaging feature.
 - **Technologies:** Python, Flask, Socket.IO, React, Material UI  
-- [Backend Repository](https://github.com/iamme24cl/smedia-backend) | [Frontend Repository](https://github.com/iamme24cl/sMedia)
-- [Live Demo](https://smedia-74l.pages.dev)
+- [Github Repository](https://github.com/iamme24cl/smedia-app) | [Live Demo](https://d311286a.smedia-app.pages.dev/)
 
 ## 👨‍💻 Experience
 - Software Developer at ClickIPO Holdings, San Jose, California, United States (2022-Present)
