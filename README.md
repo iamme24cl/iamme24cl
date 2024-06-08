@@ -9,7 +9,7 @@ Detail-oriented and highly motivated full stack software developer. Proficient i
 - Tools: `Git`, `AWS`
 - Databases: `MySQL`, `PostgreSQL`
 
-## 🔥 My Projects
+## 🔥 Some Projects
 
 ### Movie Recommender App
 A movie recommendation application that recommends movies based on user's past movie ratings. Users can browse movies by name or category and rate movies. Built with Python and FastAPI for the backend, utilizing pandas, scipy, implicit for data manipulation and model training. The frontend is developed using React with Material UI.  
