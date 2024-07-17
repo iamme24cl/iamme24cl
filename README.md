@@ -23,8 +23,8 @@ A social media platform enabling users to create profiles, post updates, comment
 - [Github Repository](https://github.com/iamme24cl/smedia-app) | [Live Demo](https://smedia-app.pages.dev/)
 
 ## 👨‍💻 Experience
-- Software Developer at ClickIPO Holdings, San Jose, California, United States (2022-Present)
-- Software Developer at Mulltiply, United States (2022-2022)
+- Software Developer at ClickIPO Holdings, San Jose, California, United States (June 2022 - April 2024)
+- Software Developer at Mulltiply, United States (July 2021 - May 2022)
 
 ## 📫 How to Reach Me
 - LinkedIn: [chandralama](https://linkedin.com/in/chandralama)
