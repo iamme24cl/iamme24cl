@@ -26,7 +26,7 @@ A movie recommendation application that recommends movies based on user's past m
 ### Social Media App
 A social media platform enabling users to create profiles, posts, comment on each other's posts, and interact with other users. Built with Python and Flask for the backend server and React with Material UI for the frontend. Utilized Socket.IO library to enable real-time messaging feature.
 - **Technologies:** Python, Flask, Socket.IO, React, Material UI  
-- [Github Repository](https://github.com/iamme24cl/smedia-app) | [Live Demo](https://smedia-app.pages.dev/)
+- [Repository](https://github.com/iamme24cl/smedia-app) | [Live Demo](https://smedia-app.pages.dev/)
 
 ### Chat App
 A chat application with real time notification features created using React and Google Firebase.
