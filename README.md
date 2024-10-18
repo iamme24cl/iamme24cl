@@ -44,4 +44,4 @@ A chat application with real time notification features created using React and 
 - Website: [www.chandralama.com](https://www.chandralama.com) 
 
 ## ⚡ Fun fact
-- I love playing the guitar, singing and cooking!
+- I love playing guitar, singing and cooking!
