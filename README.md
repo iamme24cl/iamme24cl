@@ -40,7 +40,7 @@ A chat application with real time notification features created using React and 
 - [Live Demo](https://chatapp-b7p.pages.dev)
 
 ## 👨‍💻 Experience
-- Software Developer at Bobidi, United States (Contract work, October 2024 - Jan 2025)
+- Software Developer at Bobidi, United States (Contract work, August 2024 - Jan 2025)
 - Software Developer at ClickIPO Holdings, San Jose, California, United States (June 2022 - April 2024)
 - Software Developer at Mulltiply, United States (July 2021 - May 2022)
 
